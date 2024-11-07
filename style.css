@@ -1,0 +1,33 @@
+body#body {
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: beige;
+    border: 10px double maroon;
+    background-color: cadetblue;
+}
+
+div#main {
+    background-color: peru;
+    text-align: center;
+    padding: 50px;
+}
+
+input#input {
+    padding: 15px 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+
+button#push {
+    border:  2px solid darkred;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: darkred;
+}
+
+h2 {
+    padding-bottom: 20px;
+}
